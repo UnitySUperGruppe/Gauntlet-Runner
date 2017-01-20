@@ -38,7 +38,6 @@ public class GameControlScript : MonoBehaviour {
 			_gameIsOver = true;
 		}
 
-		TimeRemainingText.text = ("Time Remaining: ") + _timeRemaining.ToString();
 	}
 
 	
